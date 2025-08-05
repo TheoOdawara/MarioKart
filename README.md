@@ -1,2 +1,3 @@
 # MarioKart
-Primeiro projeto em node.js
+First Node.js Project
+
