@@ -1,0 +1,19 @@
+{
+  "name": "mariokart",
+  "version": "1.0.0",
+  "description": "FirstProgram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoOdawara/MarioKart.git"
+  },
+  "author": "Theo Odawara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheoOdawara/MarioKart/issues"
+  },
+  "homepage": "https://github.com/TheoOdawara/MarioKart#readme"
+}
